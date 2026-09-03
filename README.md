@@ -39,4 +39,4 @@ Healthcare organizations process high volumes of clinical and operational data. 
 
 ---
 
-Maintained by [Mohd Sirajuddin Ahmed](https://github.com/mohdsirajuddinahmed) — B.Tech CSE Student & Associate Data Scientist (In Training)
+*Maintained by [Mohd Sirajuddin Ahmed](https://github.com/mohdsirajuddinahmed) — B.Tech CSE Student & Data Science Aspirant.*
