@@ -7,7 +7,7 @@
 ## 🔗 Quick Access Links
 
 * 📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Healthcare_Tableau_Project_MohdSirajuddinAhmed/HospitalOverviewDashboard-1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-* 🎬 **[Watch 3-Minute Project Walkthrough Video]([https://drive.google.com/file/d/1ayPFIYItQzgUtmn3HDKT1UQRE0B-t8y_/view?usp=drive_link)**](https://drive.google.com/file/d/1ayPFlYItQzgUtmn3HDKT1UQRE0B-t8y_/view?usp=drive_link)
+* 🎬 **[Watch 5-Minute Project Walkthrough Video]([https://drive.google.com/file/d/1ayPFIYItQzgUtmn3HDKT1UQRE0B-t8y_/view?usp=drive_link)**](https://drive.google.com/file/d/1ayPFlYItQzgUtmn3HDKT1UQRE0B-t8y_/view?usp=drive_link)
 
 ---
 
