@@ -4,6 +4,13 @@
 
 ---
 
+## 🔗 Quick Access Links
+
+* 📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Healthcare_Tableau_Project_MohdSirajuddinAhmed/HospitalOverviewDashboard-1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+* 🎬 **[Watch 3-Minute Project Walkthrough Video](https://drive.google.com/file/d/1ayPFIYItQzgUtmn3HDKT1UQRE0B-t8y_/view?usp=drive_link)**
+
+---
+
 ## 📌 Project Overview
 
 Welcome to my Healthcare Analytics project! As an Associate Data Scientist currently developing my skills in visual analytics and business intelligence, I built this multi-tab dashboard to help healthcare management analyze clinical performance and operational costs across Andhra Pradesh and Telangana.
