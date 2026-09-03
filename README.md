@@ -36,3 +36,7 @@ Healthcare organizations process high volumes of clinical and operational data. 
 ## 📂 Repository Contents
 
 * "Healthcare Tableau Project Assignment Mohd Sirajuddin Ahmed.pdf" — Complete project report featuring the scenario breakdown, key performance indicators, live Tableau Public access links, video walkthrough link, and actionable business insights.
+
+---
+
+Maintained by Mohd Sirajuddin Ahmed — B.Tech CSE Student & Data Science Aspirant.
